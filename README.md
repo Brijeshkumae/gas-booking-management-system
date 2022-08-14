@@ -1,6 +1,7 @@
-# gas-booking-management-system## Project Description
- 
-In this project, customer sends the request for LPG connection to the organization Book Cylinder: When the organization provides a connection number then the customer can book his/her cylinder. Booking History: In this section, customer can view the history of gas booking. Search: In this section, customer can search gas booking records by entering the booking number. The customer can also update his profile, change the password and recover the password. Admin Module
+# gas-booking-management-system
+
+## Project Description
+ In this project, customer sends the request for LPG connection to the organization Book Cylinder: When the organization provides a connection number then the customer can book his/her cylinder. Booking History: In this section, customer can view the history of gas booking. Search: In this section, customer can search gas booking records by entering the booking number. The customer can also update his profile, change the password and recover the password. Admin Module
 
 ## Technologies Used
 - Java - SE 18.0.2
